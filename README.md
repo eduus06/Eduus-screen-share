@@ -1,4 +1,4 @@
-![Como não compartilhar tela no Discord](como-nao-compartilhar-tela-no-discord-banner.png)
+![Eduus Screen Share](banner.jpg)
 
 # Sala de Tela
 
